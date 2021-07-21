@@ -4,7 +4,7 @@
 
 ## Project Purpose:
 
-This app was built for the Udacity React Nanodegree Program. The purpose of the project is to preactice the basics of React.
+This app was built for the Udacity React Nanodegree Program. The purpose of the project is to practice the basics of React.
 
 ## How to Load the App
 
