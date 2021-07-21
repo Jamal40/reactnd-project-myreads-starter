@@ -56,6 +56,8 @@ class BooksApp extends React.Component {
         .catch((e) => {
           this.setState({ searchResultBooks: [] });
         });
+    } else {
+      this.setState({ searchResultBooks: [] });
     }
   };
 
