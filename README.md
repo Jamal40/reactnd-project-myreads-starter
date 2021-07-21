@@ -8,7 +8,7 @@ This app was built for the Udacity React Nanodegree Program. The purpose of the 
 
 ## How to Load the App
 
-First you have to have NPM installed. Then run npm install or npm i. After that npm start. And then you'll have the app running on localhost and port 3000.
+First you have to have NPM installed. Then run "npm install" or "npm i". After that "npm start". And then you'll have the app running on localhost and port 3000.
 
 
 ## How to Use the App
